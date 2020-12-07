@@ -1,6 +1,6 @@
 # Spring PetClinic Sample Application
 
-##  ADDED THIS LINE 12/7/2020, ONLY TO CHECK IF JENKINS JOB RECOGNIZES GIT PUSH
+## ADDED THIS LINE 12/7/2020, ONLY TO CHECK IF JENKINS JOB RECOGNIZES GIT PUSH
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
